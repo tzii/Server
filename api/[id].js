@@ -1,5 +1,5 @@
-module.exports = (req, res) => {
+export const hi = (req, res) => {
     res.json({
-        msg: req.query,
+        msg: req.query.id,
     });
 };
