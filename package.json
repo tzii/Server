@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Shoji5/Server#readme",
   "dependencies": {
+    "cookie": "^0.4.1",
     "cors": "^2.8.5"
   }
 }

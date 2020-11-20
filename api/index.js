@@ -1,4 +1,5 @@
 import Cors from "cors";
+import cookie from "cookie";
 
 // Initializing the cors middleware
 const cors = Cors({
